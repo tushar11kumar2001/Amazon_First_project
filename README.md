@@ -16,4 +16,4 @@ To run the project locally, simply clone this repository to your machine and ope
    - git clone https://github.com/your-username/amazon-clone.git
    - cd amazon-clone
 ## Demo
-For a live demo, visit Amazon Clone.
+For a live demo, visit https://tushar11kumar2001.github.io/Amazon_First_project/)https://tushar11kumar2001.github.io/Amazon_First_project/.
