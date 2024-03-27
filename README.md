@@ -13,7 +13,7 @@
 
 ## Installation
 To run the project locally, simply clone this repository to your machine and open the index.html file in your web browser.
-   - git clone https://github.com/your-username/amazon-clone.git
+   - git clone https://github.com/tushar11kumar2001/Amazon_First_project.git
    - cd amazon-clone
 ## Demo
 For a live demo, visit https://tushar11kumar2001.github.io/Amazon_First_project/.
